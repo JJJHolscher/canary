@@ -1,0 +1,24 @@
+# jupyter artefacts
+/jnp/*.ju.py
+/Untitled.ipynb
+
+# run data
+/run/*
+!/run/.keep
+
+# ctags
+/tags
+/tags.temp
+/tags.lock
+
+# python build
+/artefacts/
+/build/
+/*.egg-info/
+/.venv/
+__pycache__
+**.egg-info/
+**.ipynb_checkpoints
+
+
+

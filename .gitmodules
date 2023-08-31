@@ -1,0 +1,3 @@
+[submodule "minetest-baselines"]
+	path = minetest-baselines
+	url = https://github.com/EleutherAI/minetest-baselines.git
